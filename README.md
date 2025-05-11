@@ -43,9 +43,9 @@ Serão analisadas as seguintes métricas:
 
 **Insight:** No 1º gráfico percebemos visualmente que havia pouca variação no desempenho de faturamento entre as quatro lojas. Aqui essa diferença é apresentada em valores.
 
-🎯##Relatório com conclusão
+🎯###Relatório com conclusão
 
-[Veja em](./notebook_colab/Challenge_AluraStoreBr.ipynb)
+[Acesse notebook](./notebook_colab/Challenge_AluraStoreBr.ipynb)
 
 ## 📖 Como executar este notebook
 
