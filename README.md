@@ -28,7 +28,7 @@ Serão analisadas as seguintes métricas:
 **Insight:** Nota-se que, como um grupo empresarial, a participação de cada loja no faturamento total está bem equilibrada com pouca variação.
 
 ### Categorias
-<img src="imagens/vendas_por_categorias_por_loja.png" alt="vendas_por_categorias_por_loja" width="500"/>
+<img src="imagens/vendas_por_categorias_por_loja.png" alt="vendas_por_categorias_por_loja" width="900"/>
 
 
 **Insight:** Pela variedade de produtos oferecidos, podemos ver que classificando-os em categorias percebemos que há pouca variação da participação delas nas vendas de cada loja. E que 80% das vendas correspondem às categorias Eletrônicos, Eletrodomésticos e Móveis.
