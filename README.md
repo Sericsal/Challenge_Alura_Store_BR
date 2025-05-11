@@ -16,27 +16,27 @@ Serão analisadas as seguintes métricas:
 ## 📊 Exemplos de gráficos e insights obtidos
 
 ### Faturamento
-![faturamento](caminho/para/imagem.png)
+![faturamento](imagens/faturamento_por_loja.png)
 
 **Insight:** As 4 lojas apresentam uma variação pequena de faturamento entre elas, o que é bom pois mostra que todas têm um mesmo potencial.
 
 ### Participação no Faturamento (Pizza)
-![fatura_pizza](caminho/para/imagem.png)
+![fatura_pizza](imagens/faturamento_por_loja_pizza.png)
 
 **Insight:** Nota-se que, como um grupo empresarial, a participação de cada loja no faturamento total está bem equilibrada com pouca variação.
 
 ### Categorias
-![categorias](caminho/para/imagem.png)
+![categorias](imagens/vendas_por_categorias_por_loja.png)
 
 **Insight:** Pela variedade de produtos oferecidos, podemos ver que classificando-os em categorias percebemos que há pouca variação da participação delas nas vendas de cada loja. E que 80% das vendas correspondem às categorias Eletrônicos, Eletrodomésticos e Móveis.
 
 ### Avaliações
-![avaliações](caminho/para/imagem.png)
+![avaliações](imagens/media_avaliacoes.png)
 
 **Insight:** Todas as lojas apresentam uma mediana igual a 4, o que é bom, embora lojas 1 e 4 apresentem uma distribuição um pouco mais espalhada.
 
 ### Diferença de Faturamento
-![diferença](caminho/para/imagem.png)
+![diferença](imagens/diferenca_entre_lojas.png)
 
 **Insight:** No 1º gráfico percebemos visualmente que havia pouca variação no desempenho de faturamento entre as quatro lojas. Aqui essa diferença é apresentada em valores.
 
